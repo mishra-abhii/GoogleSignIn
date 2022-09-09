@@ -36,6 +36,7 @@ dependencies {
     implementation 'com.google.firebase:firebase-auth:21.0.8'
 
     // dependency added for google sign in purpose
+    // Add SHA-1 in the firebase project settings
     implementation 'com.google.android.gms:play-services-auth:20.3.0'
 
     testImplementation 'junit:junit:4.13.2'
